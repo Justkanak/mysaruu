@@ -5,7 +5,7 @@ const textConfig = {
     subtitle: "I want you to know that How much you mean to me.",
     lastLine: "Tap below, okay?",
     button: "Open this Cutie",
-    footer: "Made with love by you kannu only for you 🥺❤️",
+    footer: "Made with love by your kannu only for you 🥺❤️",
   },
 
   app: {
@@ -94,7 +94,7 @@ You bring comfort, light, and calm into my world🌎❤️`,
     dateLocale: "en-US",
     letterGreeting: "Hey Saru,",
     letterParagraphs: [
-      "I just want you to know how much you mean to me.",
+      "You make my world brighter every day, you the best🫀",
       "I hope this Bring you a little comfort and a smile🥹."
     ],
     sealingNote: "You're such a Gem💎 — I love you 🫶🏻❤️"
