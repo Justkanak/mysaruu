@@ -19,7 +19,7 @@ const textConfig = {
     letterMessage: `Meri Saru,
 
 Everything Feel Happier because of you.
-You bring comfort, light, and calm into my world🌎❤️`,
+You bring comfort, light, and calm into my world 🌎❤️`,
     letterSignature: "Miss Gorgeous",
     envelopeClickHint: "Tap to unwrap 🎁",
     specialDeliveryText: "Something Special 🥰💌",
