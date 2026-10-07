@@ -1,7 +1,7 @@
 const textConfig = {
   landing: {
     welcome: "a little thought… 🫢",
-    title: "Mannuu🫶🏻",
+    title: "Miss Manasvi🫶🏻",
     subtitle: "I want you to know that How much you mean to me.",
     lastLine: "Tap below, okay?",
     button: "Open this Cutie",
@@ -9,7 +9,7 @@ const textConfig = {
   },
 
   app: {
-    introText: "Mannu 😚"
+    introText: "Letsgoo 😚"
   },
 
   letter: {
