@@ -2,7 +2,7 @@ const textConfig = {
   landing: {
     welcome: "a little thought… 🫢",
     title: "Miss Manasvi🫶🏻",
-    subtitle: "I want you to know that How much you mean to me.",
+    subtitle: "I just want you to know how special you are, and never forget how much you’re worth.🫶🏻",
     lastLine: "Tap below, okay?",
     button: "Open this Cutie",
     footer: "Made with love only for you❤️",
