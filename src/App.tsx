@@ -97,7 +97,7 @@ function App() {
               </motion.div>
 
               <div className="typing-wrapper">
-                <span className="typing-animation">Loading my love for you...</span>
+                <span className="typing-animation">Loading somethig special for you...</span>
               </div>
             </div>
 
