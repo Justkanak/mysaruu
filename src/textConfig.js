@@ -1,25 +1,25 @@
 const textConfig = {
   landing: {
     welcome: "a little thought… 🫢",
-    title: "Meri Saru🫶🏻",
+    title: "Mannuu🫶🏻",
     subtitle: "I want you to know that How much you mean to me.",
     lastLine: "Tap below, okay?",
     button: "Open this Cutie",
-    footer: "Made with love by your kannu only for you 🥺❤️",
+    footer: "Made with love only for you❤️",
   },
 
   app: {
-    introText: "Muahh 😚"
+    introText: "Mannu 😚"
   },
 
   letter: {
     headerTitle: "A Special Note 💌",
     headerSubtitle: "Wrapped straight from my heart",
     letterHeaderTitle: "Hey My Favorite Person 👀",
-    letterMessage: `Meri Saru,
+    letterMessage: `Miss Manasvi,
 
 Everything Feel Happier because of you.
-You bring comfort, light, and calm into my world 🌎❤️`,
+You bring comfort, light, and calm into my world 🫶🏻`,
     letterSignature: "Miss Gorgeous",
     envelopeClickHint: "Tap to unwrap 🎁",
     specialDeliveryText: "Something Special 🥰💌",
@@ -36,7 +36,7 @@ You bring comfort, light, and calm into my world 🌎❤️`,
     headerSmall: "A quick game first...",
     headerTitle: "Sweet Tic-Tac-Toe",
     placeInstruction: "Place the cookie to continue",
-    badgeLabel: "My Sweetest Love"
+    badgeLabel: "Cutieepieee"
   },
 
   chillZone: {
@@ -63,8 +63,8 @@ You bring comfort, light, and calm into my world 🌎❤️`,
     card1BackEmoji: "♾️🫀",
 
     card2Front: "You Look cute even when you’re Angry 😅",
-    card2BackTitle: "My Observation:",
-    card2BackText: "No matter the mood, you’ll always be my favorite.",
+    card2BackTitle: "My fav thing:",
+    card2BackText: "I love to tease you.",
 
     card3Front: "Coupon for you: Unlimited hugs🫂❤️",
     card3BackTitle: "Redeem Anytime",
@@ -92,12 +92,12 @@ You bring comfort, light, and calm into my world 🌎❤️`,
     sealedOverlayEmoji: "💌",
 
     dateLocale: "en-US",
-    letterGreeting: "Hey Saru,",
+    letterGreeting: "Hey Mannu,",
     letterParagraphs: [
       "You make my world brighter every day, you the best🫀",
       "I hope this Bring you a little comfort and a smile🥹."
     ],
-    sealingNote: "You're such a Gem💎 — I love you 🫶🏻❤️"
+    sealingNote: "You're such a Gem💎❤️"
   },
 
   common: {
