@@ -133,8 +133,8 @@ const CardsSection: React.FC<CardsSectionProps> = ({ onNext }) => {
               {/* BACK SIDE */}
               <div className="absolute inset-0 backface-hidden rotate-y-180 bg-white rounded-2xl shadow-2xl p-4 flex flex-col items-center border-8 border-white">
 
-                {/* ORIGINAL IMAGE — NO FILTER / NO OVERLAY */}
-                <div className="w-full h-[70%] rounded-lg overflow-hidden shadow-inner bg-gray-100 relative">
+                {/* PHOTO */}
+                <div className="w-full h-[70%] rounded-lg overflow-hidden bg-white relative">
 
                   <img
                     src={card.img}
@@ -144,7 +144,7 @@ const CardsSection: React.FC<CardsSectionProps> = ({ onNext }) => {
 
                 </div>
 
-                {/* TEXT BELOW IMAGE */}
+                {/* TEXT */}
                 <div className="flex-grow flex flex-col items-center justify-center pt-4 text-center">
 
                   <p className="font-hand text-2xl text-gray-800 mb-1">
@@ -177,13 +177,12 @@ const CardsSection: React.FC<CardsSectionProps> = ({ onNext }) => {
 
       </div>
 
-      {/* Footer / Continue */}
+      {/* Continue Button */}
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         className="mt-20 z-20"
       >
-
         <button
           onClick={onNext}
           className="group flex items-center gap-3 px-10 py-4 bg-[#FF4D94] text-white font-bold rounded-full shadow-[0_10px_20px_rgba(255,77,148,0.3)] hover:scale-105 hover:bg-[#e63d83] transition-all"
@@ -194,7 +193,6 @@ const CardsSection: React.FC<CardsSectionProps> = ({ onNext }) => {
             arrow_forward
           </span>
         </button>
-
       </motion.div>
 
       <style>{`
