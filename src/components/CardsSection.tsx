@@ -112,7 +112,7 @@ const CardsSection: React.FC<CardsSectionProps> = ({ onNext }) => {
                 className={`absolute inset-0 backface-hidden rounded-2xl shadow-xl ${card.color} p-8 flex flex-col items-center justify-center border-4 border-white/50 overflow-hidden`}
               >
 
-                {/* Washi Tape Effect */}
+                {/* Washi Tape */}
                 <div className="absolute -top-2 left-1/2 -translate-x-1/2 w-32 h-10 bg-white/40 backdrop-blur-sm rotate-1 z-10 shadow-sm border-x-4 border-dashed border-black/5" />
 
                 <h3 className="font-hand text-3xl md:text-4xl text-gray-800 leading-relaxed text-center">
@@ -133,13 +133,13 @@ const CardsSection: React.FC<CardsSectionProps> = ({ onNext }) => {
               {/* BACK SIDE */}
               <div className="absolute inset-0 backface-hidden rotate-y-180 bg-white rounded-2xl shadow-2xl p-4 flex flex-col items-center border-8 border-white">
 
-                {/* IMAGE */}
+                {/* ORIGINAL IMAGE — NO FILTER / NO OVERLAY */}
                 <div className="w-full h-[70%] rounded-lg overflow-hidden shadow-inner bg-gray-100 relative">
 
                   <img
                     src={card.img}
                     alt="Memory"
-                    className="w-full h-full object-cover brightness-110"
+                    className="w-full h-full object-cover"
                   />
 
                 </div>
